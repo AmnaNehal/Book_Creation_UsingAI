@@ -1,0 +1,35 @@
+{
+  "id": "docs/ai-robot-brain/nvidia-isaac-sim",
+  "title": "NVIDIA Isaac Sim",
+  "description": "Learning about photorealistic simulation and synthetic data generation with NVIDIA Isaac Sim for training Physical AI systems",
+  "source": "@site/docs/docs/ai-robot-brain/nvidia-isaac-sim.md",
+  "sourceDirName": "docs/ai-robot-brain",
+  "slug": "/docs/ai-robot-brain/nvidia-isaac-sim",
+  "permalink": "/docs/docs/ai-robot-brain/nvidia-isaac-sim",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docs/ai-robot-brain/nvidia-isaac-sim.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "NVIDIA Isaac Sim",
+    "sidebar_label": "NVIDIA Isaac Sim",
+    "description": "Learning about photorealistic simulation and synthetic data generation with NVIDIA Isaac Sim for training Physical AI systems",
+    "keywords": [
+      "NVIDIA Isaac Sim",
+      "Photorealistic Simulation",
+      "Synthetic Data Generation",
+      "Physical AI",
+      "Training"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sensor Simulation",
+    "permalink": "/docs/docs/digital-twin/sensor-simulation"
+  },
+  "next": {
+    "title": "Isaac ROS and Perception",
+    "permalink": "/docs/docs/ai-robot-brain/isaac-ros-perception"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "docs/digital-twin/unity-environments",
+  "title": "High-Fidelity Environments with Unity",
+  "description": "Creating realistic visual environments for robotics simulation with Unity",
+  "source": "@site/docs/docs/digital-twin/unity-environments.md",
+  "sourceDirName": "docs/digital-twin",
+  "slug": "/docs/digital-twin/unity-environments",
+  "permalink": "/docs/docs/digital-twin/unity-environments",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docs/digital-twin/unity-environments.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "High-Fidelity Environments with Unity",
+    "sidebar_label": "Unity Environments",
+    "description": "Creating realistic visual environments for robotics simulation with Unity",
+    "keywords": [
+      "Unity",
+      "Visual Simulation",
+      "Digital Twin",
+      "Human-Robot Interaction",
+      "ROS 2"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Physics Simulation",
+    "permalink": "/docs/docs/digital-twin/physics-simulation"
+  },
+  "next": {
+    "title": "Sensor Simulation",
+    "permalink": "/docs/docs/digital-twin/sensor-simulation"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "docs/ros2-nervous-system/urdf-modeling",
+  "title": "Humanoid Modeling with URDF",
+  "description": "Robot modeling using Unified Robot Description Format",
+  "source": "@site/docs/docs/ros2-nervous-system/urdf-modeling.md",
+  "sourceDirName": "docs/ros2-nervous-system",
+  "slug": "/docs/ros2-nervous-system/urdf-modeling",
+  "permalink": "/docs/docs/ros2-nervous-system/urdf-modeling",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docs/ros2-nervous-system/urdf-modeling.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "ros2",
+      "permalink": "/docs/tags/ros-2"
+    },
+    {
+      "inline": true,
+      "label": "robotics",
+      "permalink": "/docs/tags/robotics"
+    },
+    {
+      "inline": true,
+      "label": "ai",
+      "permalink": "/docs/tags/ai"
+    },
+    {
+      "inline": true,
+      "label": "urdf",
+      "permalink": "/docs/tags/urdf"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Humanoid Modeling with URDF",
+    "sidebar_position": 3,
+    "description": "Robot modeling using Unified Robot Description Format",
+    "tags": [
+      "ros2",
+      "robotics",
+      "ai",
+      "urdf"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Python Agents to ROS 2",
+    "permalink": "/docs/docs/ros2-nervous-system/python-agents"
+  },
+  "next": {
+    "title": "Physics Simulation",
+    "permalink": "/docs/docs/digital-twin/physics-simulation"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "docs/digital-twin/sensor-simulation",
+  "title": "Sensor Simulation for Humanoids",
+  "description": "Simulating various sensors for humanoid robots in digital twin environments",
+  "source": "@site/docs/docs/digital-twin/sensor-simulation.md",
+  "sourceDirName": "docs/digital-twin",
+  "slug": "/docs/digital-twin/sensor-simulation",
+  "permalink": "/docs/docs/digital-twin/sensor-simulation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docs/digital-twin/sensor-simulation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Sensor Simulation for Humanoids",
+    "sidebar_label": "Sensor Simulation",
+    "description": "Simulating various sensors for humanoid robots in digital twin environments",
+    "keywords": [
+      "Sensor Simulation",
+      "Digital Twin",
+      "Humanoid Robots",
+      "LiDAR",
+      "Depth Cameras",
+      "IMU",
+      "ROS 2"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Unity Environments",
+    "permalink": "/docs/docs/digital-twin/unity-environments"
+  },
+  "next": {
+    "title": "NVIDIA Isaac Sim",
+    "permalink": "/docs/docs/ai-robot-brain/nvidia-isaac-sim"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "docs/vla-integration/language-planning",
+  "title": "Language-Driven Planning",
+  "description": "Using LLMs for cognitive planning and task decomposition in robotics",
+  "source": "@site/docs/docs/vla-integration/language-planning.md",
+  "sourceDirName": "docs/vla-integration",
+  "slug": "/docs/vla-integration/language-planning",
+  "permalink": "/docs/docs/vla-integration/language-planning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docs/vla-integration/language-planning.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "vla",
+      "permalink": "/docs/tags/vla"
+    },
+    {
+      "inline": true,
+      "label": "llm",
+      "permalink": "/docs/tags/llm"
+    },
+    {
+      "inline": true,
+      "label": "planning",
+      "permalink": "/docs/tags/planning"
+    },
+    {
+      "inline": true,
+      "label": "ai",
+      "permalink": "/docs/tags/ai"
+    },
+    {
+      "inline": true,
+      "label": "robotics",
+      "permalink": "/docs/tags/robotics"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Language-Driven Planning",
+    "sidebar_position": 2,
+    "description": "Using LLMs for cognitive planning and task decomposition in robotics",
+    "tags": [
+      "vla",
+      "llm",
+      "planning",
+      "ai",
+      "robotics"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Voice-to-Action Interfaces",
+    "permalink": "/docs/docs/vla-integration/voice-to-action"
+  },
+  "next": {
+    "title": "Capstone: Autonomous Humanoid",
+    "permalink": "/docs/docs/vla-integration/capstone-humanoid"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "docs/ai-robot-brain/isaac-ros-perception",
+  "title": "Isaac ROS and Perception",
+  "description": "Learning about hardware-accelerated perception pipelines and Visual SLAM concepts with Isaac ROS integration",
+  "source": "@site/docs/docs/ai-robot-brain/isaac-ros-perception.md",
+  "sourceDirName": "docs/ai-robot-brain",
+  "slug": "/docs/ai-robot-brain/isaac-ros-perception",
+  "permalink": "/docs/docs/ai-robot-brain/isaac-ros-perception",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docs/ai-robot-brain/isaac-ros-perception.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Isaac ROS and Perception",
+    "sidebar_label": "Isaac ROS and Perception",
+    "description": "Learning about hardware-accelerated perception pipelines and Visual SLAM concepts with Isaac ROS integration",
+    "keywords": [
+      "Isaac ROS",
+      "Perception Pipelines",
+      "Visual SLAM",
+      "Hardware Acceleration",
+      "ROS 2"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NVIDIA Isaac Sim",
+    "permalink": "/docs/docs/ai-robot-brain/nvidia-isaac-sim"
+  },
+  "next": {
+    "title": "Navigation with Nav2",
+    "permalink": "/docs/docs/ai-robot-brain/navigation-nav2"
+  }
+}

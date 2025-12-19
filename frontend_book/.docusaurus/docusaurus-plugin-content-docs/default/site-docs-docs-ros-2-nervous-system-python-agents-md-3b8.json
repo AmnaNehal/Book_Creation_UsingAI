@@ -1,0 +1,56 @@
+{
+  "id": "docs/ros2-nervous-system/python-agents",
+  "title": "Python Agents to ROS 2",
+  "description": "How Python AI agents communicate with ROS 2 using rclpy",
+  "source": "@site/docs/docs/ros2-nervous-system/python-agents.md",
+  "sourceDirName": "docs/ros2-nervous-system",
+  "slug": "/docs/ros2-nervous-system/python-agents",
+  "permalink": "/docs/docs/ros2-nervous-system/python-agents",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docs/ros2-nervous-system/python-agents.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "ros2",
+      "permalink": "/docs/tags/ros-2"
+    },
+    {
+      "inline": true,
+      "label": "robotics",
+      "permalink": "/docs/tags/robotics"
+    },
+    {
+      "inline": true,
+      "label": "ai",
+      "permalink": "/docs/tags/ai"
+    },
+    {
+      "inline": true,
+      "label": "python",
+      "permalink": "/docs/tags/python"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Python Agents to ROS 2",
+    "sidebar_position": 2,
+    "description": "How Python AI agents communicate with ROS 2 using rclpy",
+    "tags": [
+      "ros2",
+      "robotics",
+      "ai",
+      "python"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2 Fundamentals",
+    "permalink": "/docs/docs/ros2-nervous-system/fundamentals"
+  },
+  "next": {
+    "title": "Humanoid Modeling with URDF",
+    "permalink": "/docs/docs/ros2-nervous-system/urdf-modeling"
+  }
+}

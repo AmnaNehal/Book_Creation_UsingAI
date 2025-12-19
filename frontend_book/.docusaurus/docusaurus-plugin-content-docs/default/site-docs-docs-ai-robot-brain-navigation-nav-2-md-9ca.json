@@ -1,0 +1,35 @@
+{
+  "id": "docs/ai-robot-brain/navigation-nav2",
+  "title": "Navigation with Nav2",
+  "description": "Learning about path planning fundamentals and navigation for humanoid movement with Nav2 and the perception → planning → action loop",
+  "source": "@site/docs/docs/ai-robot-brain/navigation-nav2.md",
+  "sourceDirName": "docs/ai-robot-brain",
+  "slug": "/docs/ai-robot-brain/navigation-nav2",
+  "permalink": "/docs/docs/ai-robot-brain/navigation-nav2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docs/ai-robot-brain/navigation-nav2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Navigation with Nav2",
+    "sidebar_label": "Navigation with Nav2",
+    "description": "Learning about path planning fundamentals and navigation for humanoid movement with Nav2 and the perception → planning → action loop",
+    "keywords": [
+      "Navigation",
+      "Nav2",
+      "Path Planning",
+      "Humanoid Movement",
+      "Perception Planning Action"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Isaac ROS and Perception",
+    "permalink": "/docs/docs/ai-robot-brain/isaac-ros-perception"
+  },
+  "next": {
+    "title": "Voice-to-Action Interfaces",
+    "permalink": "/docs/docs/vla-integration/voice-to-action"
+  }
+}

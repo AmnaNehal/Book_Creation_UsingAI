@@ -1,0 +1,56 @@
+{
+  "id": "docs/vla-integration/voice-to-action",
+  "title": "Voice-to-Action Interfaces",
+  "description": "Using speech recognition and LLMs to convert voice commands to robotic actions",
+  "source": "@site/docs/docs/vla-integration/voice-to-action.md",
+  "sourceDirName": "docs/vla-integration",
+  "slug": "/docs/vla-integration/voice-to-action",
+  "permalink": "/docs/docs/vla-integration/voice-to-action",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docs/vla-integration/voice-to-action.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "vla",
+      "permalink": "/docs/tags/vla"
+    },
+    {
+      "inline": true,
+      "label": "voice",
+      "permalink": "/docs/tags/voice"
+    },
+    {
+      "inline": true,
+      "label": "robotics",
+      "permalink": "/docs/tags/robotics"
+    },
+    {
+      "inline": true,
+      "label": "ai",
+      "permalink": "/docs/tags/ai"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Voice-to-Action Interfaces",
+    "sidebar_position": 1,
+    "description": "Using speech recognition and LLMs to convert voice commands to robotic actions",
+    "tags": [
+      "vla",
+      "voice",
+      "robotics",
+      "ai"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Navigation with Nav2",
+    "permalink": "/docs/docs/ai-robot-brain/navigation-nav2"
+  },
+  "next": {
+    "title": "Language-Driven Planning",
+    "permalink": "/docs/docs/vla-integration/language-planning"
+  }
+}
